@@ -1,7 +1,8 @@
 # Dapper Debug
-I used this with Dapper to convert DataTables to SQL strings
+I created this to help debug and test stored procedures in Dapper. I used this with Dapper to convert DataTables to SQL Table Type string statements.
 
 TODO: Docker Compose with MSSQL Server and sample database.
+TODO: Setup sample project.
 TODO: Add more debugging functionality.
 
 ## Convert Table Types to SQL
