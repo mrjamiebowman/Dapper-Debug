@@ -7,7 +7,7 @@ namespace DapperDebug
     public static class DapperDebug
     {
         /// <summary>
-        /// Creates table type object from DataTable
+        /// Converts a DataTable to a T-SQL table type.
         /// </summary>
         /// <param name="table"></param>
         /// <param name="tblTypeName"></param>
