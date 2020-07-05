@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDebug", "DapperDebug\DapperDebug.csproj", "{6EA8CB3F-7CF0-44A6-BF5B-E1A9A852687F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperDebug", "DapperDebug\DapperDebug.csproj", "{6EA8CB3F-7CF0-44A6-BF5B-E1A9A852687F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDebug.Tests", "DapperDebug.Tests\DapperDebug.Tests.csproj", "{128F91AE-43D0-4734-AF7D-D3735D7744F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperDebug.Tests", "DapperDebug.Tests\DapperDebug.Tests.csproj", "{128F91AE-43D0-4734-AF7D-D3735D7744F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{24925600-9318-4D55-8CF1-B56E1A9E8916}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\README.md = ..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

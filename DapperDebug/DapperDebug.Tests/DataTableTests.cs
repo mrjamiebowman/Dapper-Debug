@@ -3,10 +3,10 @@ using Xunit;
 
 namespace DapperDebug.Tests
 {
-    public class UnitTest1
+    public class DataTableTests
     {
         [Fact]
-        public void Test1()
+        public void DataTableTest()
         {
 
         }
